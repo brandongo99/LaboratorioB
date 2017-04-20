@@ -1,0 +1,47 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+
+.titulo {
+	margin-top: 20px;
+	width: 100%;
+	background-color: rgb(71, 214, 177);
+	height: 100px;
+	height: 60px;
+}
+
+.titulo h1 {
+	font-size: 40px;
+	font-family: Comic Sans MS;
+}
+
+body {
+	background:url("https://static.pexels.com/photos/2324/skyline-buildings-new-york-skyscrapers.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+h2 {
+	margin:20px;
+	font-family: Comic Sans MS;
+	font-size: 30px;
+}
+
+ul {
+	margin-top: 10px;
+	margin-left: 50px;
+}
+
+li {
+	font-color: white;
+	font-family: Comic Sans MS;
+	font-size: 20px;
+}
+
+p {
+	font-family: Comic Sans MS;
+	font-size: 30px;
+	margin-left: 20px;
+}
